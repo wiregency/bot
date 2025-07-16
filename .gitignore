@@ -1,0 +1,25 @@
+# node modules
+node_modules/
+
+# logs
+logs
+*.log
+
+# system
+.DS_Store
+
+# environment
+.env
+
+# build
+dist/
+build/
+
+# vscode
+.vscode/
+
+# database
+*.sqlite
+*.sqlite3
+data/
+
